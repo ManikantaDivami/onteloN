@@ -1,0 +1,47 @@
+@import "../../styles/globals.scss";
+
+.section {
+  width: 50%;
+}
+.wrapperSignup {
+  display: flex;
+  justify-content: center;
+}
+
+.heading {
+  font-weight: $semiBoldFont;
+  font-size: $headerFontSize;
+  margin: 20px 0;
+}
+.leftWrapper {
+  margin-left: 125px;
+  margin-right: 114px;
+}
+.tabWrapper {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  border-bottom: 1px solid $gray5;
+}
+.tabElement {
+  max-width: 105px;
+  width: 100%;
+  padding: 21px 0;
+  margin-right: 32px;
+  border-bottom: 1px solid $blue2;
+}
+.tabColor {
+  color: $black !important;
+}
+.column {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.image {
+  max-width: 125px;
+  max-height: 126px;
+  width: 100%;
+  height: 100%;
+  margin: 10px 200px;
+}

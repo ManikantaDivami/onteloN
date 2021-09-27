@@ -1,0 +1,22 @@
+.dialog-header {
+  width: 100%;
+  padding: 12px !important;
+  background: #191970;
+  height: 72px;
+  align-items: center;
+  display: flex;
+
+  h2 {
+    width: 100%;
+  }
+}
+.dialog-header-width {
+  max-width: 792px !important;
+}
+
+.dialog-content {
+  background: #e5e5e5 !important;
+  padding: 16px !important;
+  width: 100%;
+  height: 100%;
+}

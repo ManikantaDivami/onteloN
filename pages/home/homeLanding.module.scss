@@ -1,0 +1,135 @@
+.wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.d-flex-center {
+  justify-content: center;
+  padding: 120px 0 187px;
+  background-size: cover;
+  width: 100%;
+  display: flex;
+  background-image: url(../../public/images/pngs/landing-page-bg.png);
+}
+
+.home-wrapper {
+  max-width: 1456px;
+  width: 100%;
+  padding: 0 25px;
+}
+
+.landing-page__header {
+  flex-direction: column;
+  display: flex;
+  position: relative;
+}
+
+.landing-page__title {
+  font-weight: 500;
+  font-size: 180px;
+  line-height: 90%;
+}
+
+.light-deep-pink {
+  color: #e54dc0;
+}
+
+.landing-page__content {
+  width: 100%;
+  max-width: 1011px;
+  margin: 60px 0;
+  font-size: 20px;
+  line-height: 200%;
+}
+.purple {
+  color: #e54dc0;
+}
+
+.title-form {
+  padding: 80px 130px;
+}
+.left-content {
+  display: flex;
+  justify-content: flex-end;
+}
+.align-Introduction {
+  max-width: 550px;
+  width: 100%;
+}
+.right-content {
+  max-width: 522px;
+  width: 100%;
+  opacity: 0.6;
+  font-size: 16px;
+  line-height: 200%;
+}
+.left-form {
+  background-color: #73e5aeb3;
+  display: flex;
+  justify-content: center;
+  color: #1d1d72;
+  height: 100%;
+  font-size: 30px;
+}
+.right-form {
+  height: 100%;
+  background-color: #4b4bbc;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.home-landing-margin {
+  margin: 0 32px;
+  display: flex;
+  justify-content: center;
+}
+.img-right {
+  max-width: 730px;
+  height: 636px;
+  object-fit: cover;
+  width: 100%;
+}
+.left-part {
+  max-width: 746px;
+  width: 100%;
+  height: 636px;
+  padding: 45px 0;
+  color: #fff;
+  position: relative;
+  overflow: hidden;
+  display: flex;
+  justify-content: center;
+  background-color: #e54dc0;
+  background-image: url(../../public/images/pngs/homeLandingbg.png);
+  background-position: left;
+  background-repeat: no-repeat;
+}
+.container {
+  max-width: 506px;
+  width: 100%;
+}
+.alignmentCenter {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  margin-bottom: 50px;
+  margin-top: 20px;
+}
+.bold {
+  font-weight: 600;
+
+  font-size: 40px;
+  line-height: 150%;
+
+  padding-right: 36px;
+  z-index: 20;
+  position: relative;
+}
+.small {
+  color: #fff;
+  font-size: 16px;
+  position: relative;
+  line-height: 200%;
+  font-weight: normal !important;
+}

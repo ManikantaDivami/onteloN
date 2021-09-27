@@ -1,0 +1,219 @@
+{
+    "teachersLanding": {
+        "introductionContent1": "Our live microlearning events typically last between 1-4 hours, allowing you to arrange your work schedule around your circumstances. ",
+        "introductionContent2": "This provides you with the flexibility to work and earn on your terms at a time and place that’s convenient to you .",
+
+        "carousel": {
+            "meetYourColleagues": "Meet your Colleagues",
+            "content": {
+                "1": "Fuelled by Turkish coffee, Ahmed sees the beauty in technology and nicely painted(implemented) systems that look, operate and make our lives pretty. He finds it amazing to show others how to do the same",
+                "2": "A passionate innovator, specializing in leading digital transformation projects and building technology solutions to solve business problems. He is quick to accept that data is his first love and he thrives on data driven insights. Gautam is an avid cricket fan and loves to play sports with his 3 year old boy when not working",
+                "3": "Lives in the countryside nr. Exeter, UK and draws upon his experience working in London, Dubai and Bermuda to deliver Management training and Coaching sessions to knowledge seekers accross EMEA "
+            },
+            "name": {
+                "ahmed": "Ahmed",
+                "gautam": "Gautam",
+                "steve": "Steve"
+            }
+        },
+        "contentLanding": "Joining <span style=' font-weight:800'>ontelo</span> ’s community of expert knowledge providers gives you the platform to further your career online by helping people across the globe achieve their goals.",
+        "landingPage": {
+            "yourCareer": " Your career",
+            "takeOff": "take-off"
+        },
+        "introductionSection": {
+            "line1": "Take",
+            "line2": " control.",
+            "line3": "Teach ",
+            "line4": "others and",
+            "line5": "earn on your",
+            "line6": " terms.",
+            "part1": "<span style='font-weight:800'>ontelo</span> can provide you with the autonomy you crave – so you can take control of your work schedule and achieve your goals "
+        },
+        "howItWorks": {
+            "title": "How it works:",
+            "content": {
+                "1": "No obligations. No fees. Joining <span style='font-weight:800'>ontelo</span>’s community of knowledge providers is simple: create your profile, promote your expertise, and connect with potential clients.",
+                "2": "Once you are part of the community, your skills and knowledge will be matched against live learning enquiries submitted by knowledge seekers from across the globe.",
+                "3": "You receive alerts via the <span style='font-weight:800'>ontelo</span> platform whenever there is an enquiry about your services, allowing you to view the opportunity and submit a proposal – if it matches your requirements of course!",
+                "4" : "If your proposal is accepted, all that is left to do is agree on a date and a time to connect and you are ready to do what you do best: help your clients to achieve their learning objectives."
+        }
+        },
+        "payment": {
+            "gettingPaid": "Getting paid:",
+            "description": " You set your hourly rate and we’ll do the rest, holding your fee in escrow until the learning event is concluded. Payment is made directly to your bank account",
+            "5" : "Once the training course is completed, both parties – you and your client – can rate your experience. This helps to build your profile and reputation across the <span style='font-weight:800'>ontelo</span> community. ",
+            "6": "Build your reputation and continue to work with existing and new learners from across the globe, expanding your experience and growing your wallet"
+        }
+    },
+    "learnersLanding": {
+        "introductionContent2": "Do you find it difficult to achieve your learning objectives from pre-recorded content?",
+        "introductionContent3": "Do you postpone training because you don’t have the time to attend multi-day training courses?",
+        "introductionContent4": "<span style='font-weight:800'>ontelo</span> is reshaping the training landscape, so you can benefit from focused online microlearning  that teaches you precisely what you need to know – at a time that suits you.",
+        "introductionContent5": "The benefits of microlearning are compelling:",
+        "introductionSubContent1" : "Flexibility to fit training around your working day",
+        "introductionSubContent2" : "Focuses on your learning objectives",
+        "introductionSubContent3" : "Improves your learning engagement",
+        "introductionSubContent4" : "Improves your knowledge retention and recall",
+        "introductionSubContent5" : "Reduces development time and cost",
+
+        
+        "contentLanding": "You have a desire to improve, and you know exactly what you need to learn. Now it is time to make it happen. Tap into our community of expert instructors to upskill yourself conveniently and effectively online",
+        "landingPage": {
+            "seek": "Aspire.",
+            "focus": "Connect",
+            "improve": " Improve."
+        },
+        "introductionSection": {
+            "learning": "Learning",
+            "reinvented": "Reinvented."
+        },
+        "learnSomethingNew" : {
+            "bold" : "Learn something new in just 1hr, upskill today!",
+            "small" : " Select from a predefined list of microlearning topics or create your own bespoke learning package. Then simply sit back and wait for experts in your chosen subject to get in touch, before selecting your preferred instructor and agreeing your learning session – and then you’re ready to start upskilling!"
+        },
+        "joinOntelo": {
+            "title": "Connect with a global network of dedicated experts who can help you improve in real-time",
+            "content": {
+                "1": " Do you have a gap in your knowledge that is holding you back?",
+                "2" : "Are you struggling to find a course that is focused on your specific requirement?",
+                "3" : " Learn how <span style='font-weight:800'>ontelo</span>’s forward-thinking approach to training delivery could enhance your skillset."
+            }
+        },
+        "form": "Connect with experts today and learn the specific skills you need in bitesize live online microlearning sessions – at a time that suits you."
+    },
+    "homeLanding": {
+        "introductionContent1": "<span style='font-weight:800'>ontelo</span> connects people from across the globe that have a thirst for knowledge – people like you – with experts in industry, to achieve their learning objectives in a quick and effective way.",
+        "introductionContent2": "Our global community of expert instructors are skilled at imparting their extensive industry knowledge in a bite-sized training environment – so you can achieve your learning objectives at a pace that suits you. We can help you harness the power of technology to upskill conveniently and effectively by providing access to live training courses – enabling you to interact with dedicated experts online.",
+        "introductionContent3": "All training courses are delivered by verified experts that have been vetted by <span style='font-weight:800'>ontelo</span> to ensure you benefit from the highest standard of training possible.",
+
+        "contentLanding": "Connect with our global community of expert instructors for the opportunity to achieve your learning objectives in bitesize live online training sessions.",
+        "landingPage": {
+            "the": "The ",
+            "knowledge": "Knowledge",
+            "marketPlace": "Marketplace."
+        },
+        "introductionSection": {
+            "live": "Live",
+            "sessions": " training sessions",
+            "vetted": "with vetted",
+            "experts": " experts"
+        },
+        "form": "  Connect and learn the specific skill you need in bite sized, live training sessions right now.",
+          "placeholder" : {
+            "textField1" : "Formulate your question...Ie, I need help with excel tables...",
+            "textField2" : "Specify category or software...*"
+        }
+    },
+    "enterpriseLanding": {
+        "introductionContent1": "Do you worry that allowing your employees time away from the office for training will have a detrimental impact on your business’s productivity?  Think again. Investing in their development will help your business to grow in the long-term – if done properly.",
+        "introductionContent2": "Typically, just 5-15% of content learned during traditional training is retained and put into practice.",
+        "introductionContent3" : "You can overcome this hurdle by using <span style='font-weight:800'>ontelo</span> to embrace focused online training that teaches your people precisely what they need to know to work more efficiently – and increase productivity. ",
+        "introductionContent4" : "Wave goodbye to red tape and procurement overheads by giving your employees the autonomy to make their own decisions about what they want to learn and when they want to learn it",
+
+        "contentLanding": "Your people are your business’s most valuable asset. To harness their true potential you must nurture the skills they need for the future by investing in their development now. <span style='font-weight:800'>ontelo</span> can underpin this by helping you empower them with new skills and knowledge that can drive your business forward.",
+        "landingPage": {
+            "key1": " Empower your ",
+            "key2": "people"
+        },
+        "introductionSection": {
+            "doesYourTeam": "Are you neglecting",
+            "have": " your employee’s ",
+            "development": " development",
+            "goals": " goals?"
+        },
+        "card": {
+            "content1": "Enhance your team's skills by undertaking focused micro-learning sessions",
+            "content2": "Build a bespoke learning pathway for your team to follow or allow them to embark on their own development journey using our intuitive platform. "
+        },
+        "howItWorks": {
+            "title": "How it works",
+            "content1": "Streamline your entire team’s learning process in three",
+            "simpleSteps": "simple steps",
+            "steps": {
+                "1": {
+                    "number": "1",
+                    "title": "Join ontelo",
+                    "content": "Create an account quickly and easily"
+                },
+                "2": {
+                    "number": "2",
+                    "title": "Create a Team",
+                    "content": "Invite your team members"
+                },
+                "3": {
+                    "number": "3",
+                    "title": "Empower learning!",
+                    "content": "Approve learning events, monitor progress, control budgets."
+                }
+            }
+        },
+        "form": "Contact the team at ontelo to understand how you can start to empower your team's learning",
+        "placeholder" : {
+            "textField1" : "Your name",
+            "textField2" : "Email",
+            "textField3" : "Your company name"
+        }
+    },
+    "privacyPolicy": {
+        "content" : " Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?"
+    },
+    "termsAndConditions" : {
+
+    },
+    "helpCenter": {
+        },
+    "footer" : {
+        "infoOntelo" : "info@ontelo.io",
+        "uae" : "UAE: +971 4871 6715",
+        "uk" : "UK: +44 (0)20 7947 9197",
+        "southAfrica" : "South Africa: +27 (0)10 005 5793",
+        "ontelo" : "ontelo® | The Knowledge Market © 2021 All Rights Reserved."
+    },
+    "joinSection" : {
+        "joinOntelo" : "Join the ontelo community ",
+        "today" : "today"
+    },
+    "sessionDetails" : {
+        "courseOutline" : "Course Outline",
+        "preRequisiteKnow" : "Pre-requisite knowledge",
+        "learningOutcomes" : "Learning Outcomes",
+        "softwareHardwareReq" : "Software/Hardware requirements",
+        "btn-text" : "Submit a request",
+        "applyNow" : "Apply Now"
+    },
+    "sessionCard": {
+        "duration": " hours session"
+    }, 
+    "coursesAccordion": {
+        "title": "Browse our curated resource library"
+    },
+    "userDetails": {
+        "title" : " We need a little more info from you..",
+        "fname" : "First Name ",
+        "lname" : "Last Name ",
+        "email" :"Email Id",
+        "phno":"Phone Number",
+        "address" : "Address",
+        "course" : "Course",
+        "category" :"Category",
+        "interest" :"Interests",
+        "skills" : "Skills",
+        "other" : "Anything else that you would like to add",
+        "headerContent-teacher" : "You're registered!",
+        "headerContent-student" : "Welcome to <span style='font-weight:800'>ontelo</span>!",
+        "headerContent-request" : "Request published!",
+        "error-header":"Repeat Request",
+        "content-teacher" : "Thanks for joining <span style='font-weight:800'>ontelo</span>, we look forward to helping your profile grow",
+        "content-student" : "We're not quite ready to open the marketplace, but we've got your details and will be in touch soon",
+        "content-request" : "Thank you! A member of our team will pick up your request and will get back to you asap! Have a good day ahead",
+        "content-error" : "Something went wrong! Could not raise request."
+    },
+    "header" : {
+        "knowledge" : "For Knowledge",
+        "expert" : "For Experts",
+        "teams":"For Teams"
+    },
+    "signup" : "Sign Up",
+    "login" : "Login"
+}

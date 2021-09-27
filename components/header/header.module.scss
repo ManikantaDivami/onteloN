@@ -1,0 +1,82 @@
+.header {
+  display: flex;
+  flex-direction: row;
+  width: 100%;
+  justify-content: space-between;
+  background-color: #191970;
+  height: 72px;
+  color: #fff;
+  font-family: "Poppins", sans-serif;
+  position: sticky;
+  top: 0px;
+  z-index: 999;
+}
+.logo {
+  padding: 0 32px;
+}
+
+.home_link {
+  display: flex;
+  cursor: pointer;
+  align-items: center;
+}
+
+.header-nav {
+  display: flex;
+  flex-direction: row;
+  padding-top: 14px;
+  padding-bottom: 15px;
+  font-size: 16px;
+}
+.header-tab {
+  margin-right: 32px;
+  cursor: pointer;
+  padding: 16px 0px;
+  color: #fff;
+}
+.active_tab {
+  color: #fff;
+  opacity: 0.3;
+  cursor: pointer;
+  margin-right: 32px;
+  padding: 16px 0px;
+}
+.header-btns {
+  font-family: "Poppins", sans-serif;
+  margin-right: 32px;
+  margin-top: 12px;
+  margin-bottom: 12px;
+  display: flex;
+}
+.common-btn {
+  padding: 0 16px;
+  border-radius: 48px;
+  border: 1px solid #4b4bbc;
+  background-color: #191970;
+  color: #fff;
+  font-weight: 500;
+  font-size: 14px;
+  margin-left: 16px;
+  cursor: pointer;
+  height: 48px;
+}
+
+.log {
+  margin-right: 16px;
+  // margin-bottom: -3px;
+  height: 16px;
+}
+
+.button-text {
+  margin-left: 16px;
+}
+
+.login {
+  padding: 16px;
+  background-color: #191970;
+  color: #fff;
+  border: 0px;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+}

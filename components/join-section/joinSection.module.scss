@@ -1,0 +1,29 @@
+.join-section {
+  height: 308px;
+  width: inherit;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.join-section__title {
+  font-weight: 600;
+  font-size: 40px;
+  line-height: 150%;
+  text-align: center;
+
+  color: #2e2d2c;
+}
+
+.purple-color {
+  color: #e54dc0;
+}
+
+.join-section__btn {
+  width: 350px;
+  margin-top: 32px;
+}
+.btn-img {
+  margin-right: 16px;
+}

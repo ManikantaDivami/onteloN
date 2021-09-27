@@ -1,0 +1,216 @@
+@import "./globals.scss";
+
+a {
+  text-decoration: none;
+  cursor: pointer;
+  &:active {
+    color: inherit;
+  }
+}
+
+* {
+  font-family: "Poppins";
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: "Poppins";
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.tab-wrapper {
+  .MuiTabs-indicator {
+    background-color: $blue2 !important;
+    height: 3px !important;
+  }
+
+  .MuiTab-root {
+    @media (min-width: 600px) {
+      min-width: unset !important;
+    }
+    text-transform: unset !important;
+    padding: 21px 0 !important;
+    &:not(:last-child) {
+      margin-right: 32px;
+    }
+  }
+
+  .MuiTabs-root {
+    // background-color: $blue3 !important;
+    min-height: unset !important;
+    width: 100% !important;
+  }
+
+  .MuiTouchRipple-root {
+    display: none;
+  }
+
+  .MuiTab-wrapper {
+    color: $white !important;
+    font-size: $mediumFontSize !important;
+  }
+
+  .MuiTabs-flexContainer,
+  .tabPanel {
+    width: 100%;
+    max-width: 1158px;
+  }
+
+  .MuiTabs-fixed {
+    display: flex !important;
+    justify-content: center !important;
+  }
+}
+.autocomplete-wrapper {
+  .MuiInputBase-root {
+    border-radius: 0px;
+    max-height: 48px;
+    height: 100%;
+  }
+  .MuiFormControl-root {
+    max-width: 711px;
+    :focus-visible :hover {
+      outline: none;
+    }
+  }
+  .MuiFormControl-fullWidth {
+    :focus-visible :hover {
+      outline: none;
+    }
+  }
+}
+.accordion-wrapper {
+  .MuiAccordion-root:before {
+    display: none !important;
+  }
+
+  .MuiAccordionSummary-root.Mui-expanded {
+    .MuiAccordionSummary-content {
+      opacity: 0.5;
+    }
+  }
+
+  .MuiAccordionSummary-expandIcon.Mui-expanded {
+    background: $white5;
+    border-radius: 0;
+  }
+}
+
+.review-swiper {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+
+  .swiper-slide {
+    display: flex;
+    justify-content: center;
+  }
+
+  .swiper-slide:nth-child(even) {
+    margin-top: 15px !important;
+  }
+}
+
+.dotted-carousel {
+  width: 100%;
+  height: 100%;
+
+  .swiper-slide {
+    width: 100% !important;
+    padding: 0 90px 0 100px;
+    display: flex;
+    justify-content: space-between;
+  }
+
+  .swiper-pagination {
+    text-align: left !important;
+    bottom: 40px !important;
+    left: 100px !important;
+  }
+
+  .swiper-pagination-bullet {
+    width: 16px !important;
+    height: 16px !important;
+    background: $white !important;
+  }
+}
+
+.show-loader {
+  overflow: hidden;
+  opacity: 0.8;
+  padding-right: 17px;
+}
+
+.backdrop-section {
+  .MuiBackdrop-root {
+    z-index: 99999 !important;
+  }
+}
+
+.popup-alert {
+  .MuiDialogContent-root {
+    padding: 0px !important;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+}
+
+.autocomplete-wrapper {
+  .MuiOutlinedInput-notchedOutline {
+    border: 1px solid $gray4 !important;
+  }
+
+  .MuiAutocomplete-clearIndicatorDirty {
+    display: none;
+  }
+
+  .MuiIconButton-root,
+  .MuiSvgIcon-root,
+  .MuiIconButton-label {
+    margin-right: 0px !important;
+  }
+
+  .MuiSvgIcon-root {
+    fill: $blue2 !important;
+  }
+
+  .MuiAutocomplete-inputRoot[class*="MuiOutlinedInput-root"] {
+    padding: 5px 9px 9px;
+  }
+}
+
+.phone {
+  .MuiAutocomplete-root {
+    width: 150px !important;
+  }
+
+  .MuiAutocomplete-hasPopupIcon.MuiAutocomplete-hasClearIcon
+    .MuiAutocomplete-inputRoot[class*="MuiOutlinedInput-root"] {
+    padding-right: 0 !important;
+  }
+}
+
+.location {
+  color: $white;
+
+  .MuiSvgIcon-root {
+    fill: $white !important;
+  }
+
+  .MuiOutlinedInput-notchedOutline {
+    border-top: none !important;
+    border-left: none !important;
+    border-bottom: 1px solid $white !important;
+    border-right: none !important;
+  }
+
+  .MuiAutocomplete-inputRoot[class*="MuiOutlinedInput-root"],
+  .MuiAutocomplete-inputRoot[class*="MuiOutlinedInput-root"]
+    .MuiAutocomplete-input:first-child {
+    padding-left: 0px !important;
+    color: $white;
+  }
+}

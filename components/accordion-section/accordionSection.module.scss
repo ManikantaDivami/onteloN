@@ -1,0 +1,120 @@
+.accordionSection {
+  max-width: 1158px;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+}
+.accordionWrapper {
+  width: 100%;
+}
+.accordionDetails {
+  padding: 0 !important;
+  display: flex;
+  flex-direction: column;
+}
+.accordionHeader {
+  padding: 24px 32px;
+  height: 72px;
+  background: linear-gradient(0deg, #fff3, #fff3), #fff;
+}
+.accordion {
+  background: linear-gradient(0deg, #fff3, #fff3), #fff;
+  box-shadow: none !important;
+  margin-bottom: 16px;
+}
+.accordionChild {
+  background: linear-gradient(0deg, #fff3, #fff3), #fff;
+  border-top: 1px solid RGBA(150, 153, 156, 0.1);
+  box-shadow: none !important;
+}
+.accordionHeaderSection {
+  font-size: 20px;
+  color: #2b2a29;
+  align-items: center;
+  font-style: normal;
+  display: flex;
+  font-weight: 600;
+  line-height: 150%;
+  margin-left: 16px;
+  & span {
+    padding: 0px 10px 0 0;
+  }
+}
+.headerIcon {
+  width: 40px;
+  height: 40px;
+  padding: 0px 10px 0 0;
+}
+.accordionTitle {
+  line-height: 150%;
+  color: #2b2a29;
+  width: 100%;
+  padding-left: 32px;
+  max-width: 538px;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 40px;
+  margin-bottom: 40px;
+}
+.sessionSection {
+  width: 100%;
+  display: flex;
+  flex-wrap: wrap;
+  max-width: 1159px;
+  padding: 16px 14px 0;
+}
+
+.blue {
+  color: #4b4bbc;
+}
+
+.box {
+  background-color: #fff;
+  width: 100%;
+  padding: 16px;
+  margin-bottom: 16px;
+}
+.box-title {
+  font-weight: 600;
+  font-size: 24px;
+  line-height: 150%;
+  color: #000;
+}
+
+.box-time {
+  font-size: 14px;
+  color: #96999c;
+}
+.box-subheading {
+  font-weight: 500;
+  font-size: 14px;
+  margin-bottom: 22px;
+  color: #96999c;
+  display: flex;
+}
+.box-content {
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 160%;
+  color: #7c7c7c;
+  white-space: pre-line;
+}
+.box-btn {
+  width: 60%;
+  margin-top: 32px;
+}
+.box-btn-color {
+  color: white !important;
+}
+.btn-img {
+  margin-right: 12px;
+}
+.btn-color {
+  color: #fff;
+  font-weight: normal;
+  max-width: 180px;
+  width: 100%;
+  font-size: 14px;
+  height: 48px;
+}

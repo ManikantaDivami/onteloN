@@ -1,0 +1,69 @@
+.sessionCard {
+  width: 365px;
+  height: 212px;
+  margin-bottom: 20px;
+  margin-right: 10px;
+  display: flex;
+  font-style: normal;
+  border: 1px solid #fff4;
+  flex-direction: column;
+  cursor: pointer;
+}
+.sessionCard:nth-child(odd) {
+  .sessionCardImg {
+    background: #4b4bbc;
+  }
+}
+.sessionCard:nth-child(even) {
+  .sessionCardImg {
+    background: #e54dc0;
+  }
+}
+.sessionCard:nth-child(3n + 1) {
+  .sessionCardImg {
+    background-image: url(../../public/images/pngs/accordion-bg.png);
+    background-size: cover;
+  }
+}
+.sessionCard:nth-child(3n + 2) {
+  .sessionCardImg {
+    background-image: url(../../public/images/pngs/accordion-bg1.png);
+    background-size: cover;
+  }
+}
+.sessionCard:nth-child(3n) {
+  .sessionCardImg {
+    background-image: url(../../public/images/pngs/accordion-bg2.png);
+    background-size: cover;
+  }
+}
+.sessionCardTimer {
+  padding: 16px;
+  color: #96999c;
+  font-size: 14px;
+  border-top: 1px solid #fff4;
+  line-height: 160%;
+}
+.sessionCardImg {
+  height: 157px;
+  padding: 16px;
+  position: relative;
+  font-weight: 600;
+  background: color;
+  font-size: 20px;
+  line-height: 150%;
+  color: #fff;
+
+  & div {
+    position: relative;
+    z-index: 4;
+  }
+}
+.imgBg {
+  position: absolute;
+  z-index: 1;
+  width: 100%;
+  left: 0;
+  top: 0;
+  height: 100%;
+}

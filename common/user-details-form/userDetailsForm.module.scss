@@ -1,0 +1,154 @@
+.box {
+  background-color: #fff;
+  width: 100%;
+  padding: 16px;
+  margin-bottom: 16px;
+}
+.input {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  :first-child {
+    margin-right: 10px;
+  }
+}
+.margins {
+  margin-bottom: 16px;
+}
+.cancel-btn {
+  background-color: #f1f2f4;
+  color: #000;
+  margin-top: 10px;
+}
+.white {
+  color: #fff;
+}
+.block {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  width: 50%;
+}
+
+.label {
+  margin-bottom: 10px;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 160%;
+}
+
+.input-styles {
+  width: 100%;
+  padding: 5px 15px;
+  line-height: 19px;
+  height: 48px;
+  margin-bottom: 16px;
+  font-size: 16px;
+  border: 1px solid #dfdfdf;
+  outline-style: none;
+  box-shadow: none;
+}
+
+.select-style {
+  width: 50%;
+  padding: 5px 15px;
+  line-height: 19px;
+  height: 48px;
+  font-size: 16px;
+  outline-style: none;
+  box-shadow: none;
+  margin-right: 11px;
+  border: 1px solid #dfdfdf;
+}
+
+.ph {
+  margin-bottom: 16px;
+  font-weight: 500;
+  height: 48px;
+  font-size: 14px;
+  line-height: 160%;
+  display: flex;
+  justify-content: center;
+  flex-direction: row;
+}
+
+.input-styles-full {
+  max-width: 700px;
+  width: 100%;
+}
+
+.textarea-styles {
+  width: 100%;
+  margin-bottom: 32px;
+  padding: 15px;
+  line-height: 19px;
+  height: 148px;
+  margin-bottom: 32px;
+  font-size: 16px;
+  resize: none;
+  border: 1px solid #dfdfdf;
+  outline-style: none;
+}
+
+.box-title {
+  font-weight: 600;
+  font-size: 24px;
+  line-height: 150%;
+  color: #000;
+}
+
+.box-btn {
+  width: 60%;
+}
+
+.btn-img {
+  margin-right: 12px;
+}
+.btn-color {
+  color: #fff;
+  font-weight: normal;
+  max-width: 180px;
+  width: 100%;
+  font-size: 14px;
+  height: 48px;
+
+  outline: none !important;
+  box-shadow: none;
+}
+.error {
+  color: #ff0000;
+  margin-bottom: 10px;
+  font-size: 12px;
+  font-weight: 300;
+}
+.drop-down {
+  position: relative;
+}
+.select-icon {
+  cursor: pointer;
+  background-image: url(../../public/images/svgs/blue-dropdown.svg);
+  background-repeat: no-repeat;
+  background-position: 95%;
+}
+.submit-text {
+  width: 100%;
+  font-weight: 500;
+  line-height: 19px;
+  max-height: 48px;
+  height: 100%;
+  font-size: 16px;
+  box-shadow: none;
+  outline: none;
+  border: 1px solid #dfdfdf;
+}
+.list {
+  background-color: #fff;
+  margin: 0px;
+  cursor: pointer;
+  list-style-type: none;
+  padding: 2px;
+  border: 1px solid #dfdfdf;
+}
+.list-item {
+  margin: 10px 5px;
+}

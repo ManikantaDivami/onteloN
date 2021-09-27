@@ -1,0 +1,50 @@
+.landing-page__search {
+  max-width: 1496px;
+  width: 100%;
+  border-bottom: 1px solid #393988;
+  cursor: pointer;
+  position: relative;
+}
+
+#searchLearn {
+  font-weight: 500;
+  font-size: 40px;
+  // line-height: 19px;
+  color: #fff;
+  border: none;
+  background: inherit;
+  width: 100%;
+  outline: none;
+  padding: 0 20px;
+
+  &::placeholder {
+    opacity: 0.4;
+  }
+}
+
+.list {
+  margin: 0;
+  padding: 0;
+  max-height: 147px;
+  position: absolute;
+  background: #fff;
+  overflow: auto;
+  max-width: 1476px;
+  width: 100%;
+
+  li {
+    height: 48px;
+    font-size: 14px;
+    line-height: 120%;
+    color: #96999c;
+    display: flex;
+    align-items: center;
+    list-style-type: none;
+    border-bottom: 1px solid #f3f3f3;
+    cursor: pointer;
+
+    img {
+      margin: 0 16px;
+    }
+  }
+}
